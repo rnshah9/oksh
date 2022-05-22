@@ -1,0 +1,5 @@
+project: rnshah9/oksh
+target: oksh
+
+cmds:
+  - cmd: /repo/oksh @@
