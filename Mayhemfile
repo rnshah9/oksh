@@ -2,4 +2,4 @@ project: oksh
 target: oksh
 
 cmds:
-  - cmd: /repo/oksh @@
+  - cmd: /install/bin/oksh @@
